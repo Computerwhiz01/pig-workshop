@@ -15,3 +15,6 @@ pig-workshop
 3) join
   instructions : join.txt
   labs : join.pig
+
+
+(For more labs checkout : https://github.com/elephantscale/HI-labs)
